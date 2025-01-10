@@ -10,7 +10,7 @@ In this paper, we propose an innovative multispectral object detection method th
 Clone repo and install requirements.txt in a Python>=3.8.0 conda environment, including PyTorch>=1.12.
 
 ```
-git clone https://github.com/chanchanchan97/COFNet.git
+git clone https://github.com/li554/COFNet.git
 cd COFNet
 pip install -r requirements.txt
 ```
